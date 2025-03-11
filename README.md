@@ -2,6 +2,7 @@
 ### I'm Bogdan Gosa
 ### A Passionate Software Developer
 
+Check out my [portfolio](https://bogdangosa.com/) here.
 <!--
 **bogdangosa/bogdangosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
